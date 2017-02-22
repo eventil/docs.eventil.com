@@ -1,0 +1,59 @@
+<aside class="sidebar">
+  <div class="d-flex justify-content-end">
+    <div class="sidebar-inner pt-3">
+      <a href="/">
+        <img src="/images/logo.png" alt="" class="img-fluid">
+      </a>
+      <ul class="menu-list list-unstyled">
+        <li class="toggle accordion-toggle">
+          <a class="toggle accordion-toggle {% if data.page.list === 'events' %} is-active {% else %} d-none {% endif %}" href="#">
+            <img src="/images/icon-calendar.svg" alt="">Events</a>
+        </li>
+        <ul class="menu-submenu accordion-content {% if data.page.list === 'events' %} d-block {% else %} d-none {% endif %}">
+          <li><a class="head {% if data.page.name === 'create' %} is-active {% endif %}" href="/event/create-event/">Create Event</a></li>
+          <li><a class="head {% if data.page.name === 'edit' %} is-active {% endif %}" href="/event/management/edit/">Edit Event</a></li>
+          <li><a class="head {% if data.page.name === 'cooperations' %} is-active {% endif %}" href="/event/management/cooperations/">Cooperations</a></li>
+          <li><a class="head {% if data.page.name === 'sponsors' %} is-active {% endif %}" href="/event/management/sponsors/">Sponsors</a></li>
+          <li><a class="head {% if data.page.name === 'agenda' %} is-active {% endif %}" href="/event/management/agenda/">Agenda</a></li>
+          <li><a class="head {% if data.page.name === 'cfp' %} is-active {% endif %}" href="/event/management/call-for-proposal/">Call for Proposals</a></li>
+          <li><a class="head {% if data.page.name === 'presentations' %} is-active {% endif %}" href="/event/management/presentations/">Presentations</a></li>
+          <li><a class="head {% if data.page.name === 'speakers' %} is-active {% endif %}" href="/event/management/speakers/">Speakers</a></li>
+          <li><a class="head {% if data.page.name === 'labels' %} is-active {% endif %}" href="/event/management/labels/">Labels</a></li>
+          <li><a class="head {% if data.page.name === 'billing' %} is-active {% endif %}" href="/event/management/billing/">Billing</a></li>
+          <li><a class="head {% if data.page.name === 'tickets' %} is-active {% endif %}" href="/event/management/tickets/">Tickets</a></li>
+          <li><a class="head {% if data.page.name === 'orders' %} is-active {% endif %}" href="/event/management/orders/">Orders</a></li>
+          <li><a class="head {% if data.page.name === 'cffo' %} is-active {% endif %}" href="/event/management/custom-fields-for-order/">Custom Fields for Order</a></li>
+          <li><a class="head {% if data.page.name === 'attendees' %} is-active {% endif %}" href="/event/management/attendees/">Attendees</a></li>
+        </ul>
+        <li class="toggle accordion-toggle">
+            <a class="toggle accordion-toggle {% if data.page.list === 'user' %} is-active {% else %} d-none {% endif %}" href="#">
+            <img src="/images/icon-user.svg" alt="">User</a>
+        </li>
+        <ul class="menu-submenu accordion-content {% if data.page.list === 'user' %} d-block {% else %} d-none {% endif %}">
+          <li><a class="head {% if data.page.name === 'profile' %} is-active {% endif %}" href="/user/profile/">Profile</a></li>
+          <li><a class="head {% if data.page.name === 'account' %} is-active {% endif %}" href="/user/account/">Account</a></li>
+          <li><a class="head {% if data.page.name === 'email' %} is-active {% endif %}" href="/user/email-settings/">Email Settings</a></li>
+          <li><a class="head {% if data.page.name === 'ticket' %} is-active {% endif %}" href="/user/tickets/">Tickets</a></li>
+          <li><a class="head {% if data.page.name === 'memberships' %} is-active {% endif %}" href="/user/group-memberships/">Group Memberships</a></li>
+          <li><a class="head {% if data.page.name === 'favourite' %} is-active {% endif %}" href="/user/favourite-events/">Favourite Events</a></li>
+          <li><a class="head {% if data.page.name === 'pres' %} is-active {% endif %}" href="/user/presentations/">Presentations</a></li>
+          <li><a class="head {% if data.page.name === 'pubs' %} is-active {% endif %}" href="/user/publications/">Publications</a></li>
+          <li><a class="head {% if data.page.name === 'bill' %} is-active {% endif %}" href="/user/billing/">Billing</a></li>
+          <li><a class="head {% if data.page.name === 'token' %} is-active {% endif %}" href="/user/access-token/">Access token</a></li>
+          <li><a class="head {% if data.page.name === 'lanyrd' %} is-active {% endif %}" href="/user/lanyrd-import/">Import presentations from Lanyrd</a></li>
+          <li><a class="head {% if data.page.name === 'groups' %} is-active {% endif %}" href="/user/groups/">Your Groups</a></li>
+          <li><a class="head {% if data.page.name === 'events' %} is-active {% endif %}" href="/user/events/">Your Events</a></li>
+          <li><a class="head {% if data.page.name === 'organizations' %} is-active {% endif %}" href="/user/organizations/">Your Organizations</a></li>
+        </ul>
+        <li class="toggle accordion-toggle">
+          <a class="toggle accordion-toggle {% if data.page.list === 'features' %} is-active {% else %} d-none {% endif %}" href="#">
+          <img src="/images/icon-box.svg" alt="">Features</a>
+        </li>
+        <ul class="menu-submenu accordion-content {% if data.page.list === 'features' %} d-block {% else %} d-none {% endif %}">
+          <li><a class="head {% if data.page.name === 'badges' %} is-active {% endif %}" href="/features/badges-lanyards/">Badges & Lanyards</a></li>
+          <li><a class="head {% if data.page.name === 'for' %} is-active {% endif %}" href="/features/for-speakers/">Eventil for Speakers</a></li>
+        </ul>
+      </ul>
+    </div>
+  </div>
+</aside>
