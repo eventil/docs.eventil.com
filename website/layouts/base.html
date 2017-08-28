@@ -13,55 +13,7 @@
 </head>
 <body class="w-100 sans-serif bg-white">
   <div id="wrapper">
-    <aside class="sidebar">
-      <div class="d-flex justify-content-end">
-        <div class="sidebar-inner pt-3">
-          <img src="/images/logo.svg" alt="" class="img-fluid">
-          <ul class="menu-list list-unstyled">
-            <li class="toggle accordion-toggle">
-              <a href="#">Home</a>
-            </li>
-            <ul class="menu-submenu accordion-content d-none">
-              <li><a class="head" href="#">Submenu1</a></li>
-              <li><a class="head" href="#">Submenu2</a></li>
-              <li><a class="head" href="#">Submenu3</a></li>
-            </ul>
-            <li class="toggle accordion-toggle">
-              <a href="#">Payments</a>
-            </li>
-            <ul class="menu-submenu accordion-content d-none">
-              <li><a class="head" href="#">Submenu1</a></li>
-              <li><a class="head" href="#">Submenu2</a></li>
-              <li><a class="head" href="#">Submenu3</a></li>
-            </ul>
-            <li>
-              <a href="#">Subscriptions</a>
-            </li>
-            <li>
-              <a href="#">Connect</a>
-            </li>
-            <li>
-              <a href="#">Sigma</a>
-            </li>
-            <li>
-              <a href="#">Radar</a>
-            </li>
-            <li>
-              <a href="#">Relay</a>
-            </li>
-            <li>
-              <a href="#">Account</a>
-            </li>
-            <li>
-              <a href="#">Development</a>
-            </li>
-            <li>
-              <a href="#">Atlas</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </aside>
+    {% include "partials/sidebar.html" %}
     <main>
       <header>
         <input type="search" placeholder="Search…" class="input">
