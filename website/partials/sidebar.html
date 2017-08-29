@@ -4,53 +4,61 @@
       <img src="/images/logo.svg" alt="" class="img-fluid">
       <ul class="menu-list list-unstyled">
         <li class="toggle accordion-toggle">
-          <a href="#">Events</a>
+          <a class="toggle accordion-toggle" href="#">Events</a>
         </li>
         <ul class="menu-submenu accordion-content d-none">
-          <li><a class="head" href="/create/">Create Event</a></li>
-          <li><a class="head" href="#">Event Management</a></li>
-          <li><a class="toggle accordion-toggle" href="#">Settings</a>
-            <ul>
-              <li>
+          <li>
+            <a class="head" href="#">Create Event</a>
+            <li>
+              <ul>
+                <li>Profile</li>
+                <li>Email Settings</li>
+              </ul>
+            </li>
+          </li>
+          <li><a class="head" href="#">Event Management</a>
+            <li>
+              <ul>
+                <li class="toggle accordion-toggle">
+                  <a class="toggle accordion-toggle" href="#">Main Settings</a>
+                </li>
                 <ul class="menu-submenu accordion-content d-none">
-                  <a class="head" href="#">Main Settings<a/>
-                  <li>Edit Event</li>
+                  <li><a class="head" href="/events/event-managment/main-settings/edit-event/">Edit Event</a></li>
                   <li><a class="head" href="/events/event-managment/main-settings/cooperations/">Cooperations</a></li>
-                  <li>Sponsors</li>
-                  <li>Mailings</li>
-                  <li>Agenda</li>
+                  <li><a class="head" href="/events/event-managment/main-settings/sponsors/">Sponsors</a></li>
+                  <li><a class="head" href="/events/event-managment/main-settings/mailings/">Mailings</a></li>
+                  <li><a class="head" href="/events/event-managment/main-settings/agenda/">Agenda</a></li>
                 </ul>
-            </li>
-            <li>
-              <ul>
-                <a class="head" href="#">Speaker Related Settings</a>
-                <li>Call for Proposals</li>
-                <li>Presentations</li>
-                <li>Voting</li>
+                <li class="toggle accordion-toggle">
+                  <a class="toggle accordion-toggle" href="#">Speaker Related Settings</a>
+                </li>
+                <ul class="menu-submenu accordion-content d-none">
+                  <li><a class="head" href="/events/event-managment/speaker-related-settings/call-for-proposal/">Call for Proposals</a></li>
+                  <li><a class="head" href="/events/event-managment/speaker-related-settings/presentations/">Presentations</a></li>
+                  <li><a class="head" href="/events/event-managment/speaker-related-settings/voting/">Voting</a></li>
+                </ul>
+                <li class="toggle accordion-toggle">
+                  <a class="toggle accordion-toggle" href="#">Attendee Related Settings</a>
+                </li>
+                <ul class="menu-submenu accordion-content d-none">
+                  <li><a class="head" href="/events/event-managment/attendee-related-settings/billing/">Billing</a></li>
+                  <li><a class="head" href="/events/event-managment/attendee-related-settings/tickets/">Tickets</a></li>
+                  <li><a class="head" href="/events/event-managment/attendee-related-settings/orders/">Orders</a></li>
+                  <li><a class="head" href="/events/event-managment/attendee-related-settings/custom-fields-and-orders/">Custom Fields for Orders</a></li>
+                  <li><a class="head" href="/events/event-managment/attendee-related-settings/attendees/">Attendees</a></li>
+                  <li><a class="head" href="/events/event-managment/attendee-related-settings/reviews/">Reviews</a></li>
+                </ul>
               </ul>
             </li>
-            <li>
-              <ul>
-                <a class="head" href="#">Attendee Related Settings</a>
-                <li>Billing</li>
-                <li>Tickets</li>
-                <li>Orders</li>
-                <li>Custom Fields for Orders</li>
-                <li>Attendees</li>
-                <li>Reviews</li>
-              </ul>
-            </li>
+          </li>
         </ul>
-      </li>
-
-      </ul>
         <li class="toggle accordion-toggle">
           <a class="toggle accordion-toggle" href="#">User Page</a>
         </li>
         <ul class="menu-submenu accordion-content d-none">
-          <li><a class="head" href="#">Presentations</a></li>
-          <li><a class="head" href="#">Publications</a></li>
-          <li><a class="head" href="#">Events</a></li>
+          <li><a class="head" href="/user-page/presentations/">Presentations</a></li>
+          <li><a class="head" href="/user-page/publications/">Publications</a></li>
+          <li><a class="head" href="/user-page/events/">Events</a></li>
         </ul>
         <li class="toggle accordion-toggle">
           <a class="toggle accordion-toggle" href="#">User Settings</a>
@@ -60,48 +68,48 @@
             <a class="head" href="#">Personal Settings</a>
             <li>
               <ul>
-                <li>Profile</li>
-                <li>Email Settings</li>
+                <li><a class="head" href="/user-settings/personal-settings/profile/">Profile</a></li>
+                <li><a class="head" href="/user-settings/personal-settings/email-settings/">Email Settings</a></li>
               </ul>
             </li>
           </li>
           <li><a class="head" href="#">Attendee Settings</a>
             <li>
               <ul>
-                <li>Tickets</li>
-                <li>Group Memberships</li>
-                <li>Favourite Events</li>
+                <li><a class="head" href="/user-settings/attendee-settings/tickets/">Tickets</a></li>
+                <li><a class="head" href="/user-settings/attendee-settings/group-memberships/">Group Memberships</a></li>
+                <li><a class="head" href="/user-settings/attendee-settings/favourite-events/">Favourite Events</a></li>
               </ul>
             </li>
           </li>
           <li><a class="head" href="#">Speaker Settings</a>
             <li>
               <ul>
-                <li>Presentations</li>
-                <li>Publications</li>
-                <li>Billing</li>
-                <li>Access token</li>
-                <li>Import presentations from Lanyrd</li>
+                <li><a class="head" href="/user-settings/speaker-settings/presentations/">Presentations</a></li>
+                <li><a class="head" href="/user-settings/speaker-settings/publications/">Publications</a></li>
+                <li><a class="head" href="/user-settings/speaker-settings/billing/">Billing</a></li>
+                <li><a class="head" href="/user-settings/speaker-settings/access-token/">Access token</a></li>
+                <li><a class="head" href="/user-settings/speaker-settings/import-presentations-from-lanyrd/">Import presentations from Lanyrd</a></li>
               </ul>
             </li>
           </li>
           <li><a class="head" href="#">Organizer Settings</a>
             <li>
               <ul>
-                <li>Your Groups</li>
-                <li>Your Events</li>
-                <li>Your Organizations</li>
+                <li><a class="head" href="/user-settings/organizer-settings/your-groups/">Your Groups</a></li>
+                <li><a class="head" href="/user-settings/organizer-settings/your-events/">Your Events</a></li>
+                <li><a class="head" href="/user-settings/organizer-settings/your-organizations/">Your Organizations</a></li>
               </ul>
             </li>
           </li>
         </ul>
-          <li class="toggle accordion-toggle">
-            <a class="toggle accordion-toggle" href="#">Features</a>
-          </li>
-          <ul class="menu-submenu accordion-content d-none">
-            <li><a class="head" href="#">Badges & Lanyards</a></li>
-            <li><a class="head" href="#">Eventil for Speakers</a></li>
-          </ul>
+        <li class="toggle accordion-toggle">
+          <a class="toggle accordion-toggle" href="#">Features</a>
+        </li>
+        <ul class="menu-submenu accordion-content d-none">
+          <li><a class="head" href="/features/badges-and-lanyards/">Badges & Lanyards</a></li>
+          <li><a class="head" href="/features/eventil-for-speakers/">Eventil for Speakers</a></li>
+        </ul>
       </ul>
     </div>
   </div>
