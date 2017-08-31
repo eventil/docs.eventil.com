@@ -1,0 +1,27 @@
+{% extends "layouts/base.html" %}
+{% block content %}
+  <h1><b>Mailings</b></h1>
+
+  <p align="justify">Do you plan to change an event location? Or you have a very important information to communicate? Mailing is an easy and quick way to keep in touch with your event audience.</p>
+  <p align="justify">Click “Add Mailing”.</p>
+  <p align="justify">The name of your event will automatically appear in the “Name” field (we advise you to leave it that way - the recipients will know which event this mailing concerns).</p>
+  <p align="justify">Choose the reply-to email (your current account email will appear in the field automatically but you can change it to any other email) and enter your mailing subject (i.e. Event location changed).</p>
+ <p align="justify">In “To” field you can choose to which group of people your mailing will be sent:</p>
+  <ul>
+    <li>attendees - people who bought a ticket for your event</li>
+    <li>speakers - people who sent a proposal (no matter what is the status of their proposal)</li>
+    <li>accepted - people whose proposals have been accepted (actual speakers)</li>
+    <li>rejected - people whose proposals have been rejected</li>
+    <li>votable - people whose proposals are in the voting process</li>
+    <li>pending - people whose proposals have been sent in reply to CFP and wait for your further move (they don’t have a status of accepted, rejected or votable proposals)</li>
+  </ul>
+  <p align="justify">Write your message and click “Create”.</p>
+  <p align="justify">In “Mailings” section you can see the created mailing. Next steps:</p>
+  <ul>
+    <li>send preview - it is good to check the mailing first, using this option you will send the mailing only to yourself</li>
+    <li>send preview to admins - you will send the mailing to your event admins (you and people who you have assigned as admins, check “Cooperations”)</li>
+    <li>send - the mailing will be sent to the chosen group</li>
+    <li>edit - if you see the mistake or you want to change something, you can always edit your mailing</li>
+    <li>destroy - you can delete the created mailing, take into account that you can’t destroy the mailing that has already been sent</li>
+  </ul>
+{% endblock %}
