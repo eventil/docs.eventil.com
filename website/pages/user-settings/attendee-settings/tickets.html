@@ -1,8 +1,10 @@
 {% extends "layouts/base.html" %}
 {% block content %}
-  <h1><b>Tickets</b></h1>
-
-  <h2><b><p align="justify">Where to find an invoice?</p></b></h2>
+<section>
+  <h5 class="title is-4">Tickets</h5>
+</section>
+<section>
+  <h5 class="title is-5">Where to find an invoice?</h5>
 
   <p align="justify">Once you’re logged in you have to go to the top right corner option button and choose ‘Settings’.</p>
   <img src="/images/settings.svg" alt="Settings-photo" />
@@ -12,8 +14,9 @@
 
   <p align="justify">If you want to see your invoice, choose ‘VIEW ORDER’. There you will find your invoice and have an option to print it.</p>
   <img src="/images/vieworder.svg" alt="View-order-photo" />
-
-  <h2><b><p align="justify">How to transfer the ticket?</p></b></h2>
+</section>
+<section>
+  <h5 class="title is-5">How to transfer the ticket?</h5>
 
   <p align="justify">If you bought the ticket for someone not for you, you can transfer it to their account. First, please ask the person to create an account on Eventil (if they still do not have it). The ticket will be available on their Eventil account as it is available on yours. Once done, log in and go to Settings → Tickets.</p>
   <img src="/images/tickets.svg" alt="Tickets-photo" />
@@ -22,4 +25,5 @@
   <img src="/images/transferticket.svg" alt="Transfer-ticket-photo" />
 
   <p align="justify">Click 'SAVE' and the ticket is transferred.</p>
+</section>
   {% endblock %}

@@ -1,10 +1,12 @@
 {% extends "layouts/base.html" %}
 {% block content %}
-  <h1><b>Tickets</b></h1>
-
+<section>
+  <h5 class="title is-4">Tickets
+<span class="tag is-success">Free or paid!</span></h5>
 <p align="justify">Here you can create tickets for your event.</p>
 <p align="justify">Your attendees can get them for free (price 0.00) or you can set a price for them.</p>
 <p align="justify">Event with paid tickets is required to have an organization with a payment gateway connected.</p>
 <p align="justify">Maximum quantity per order allows to set a limit for a number of tickets which can be purchased in just one order. It's quite useful if you know the demand is high and you intend to allow more people to buy tickets.</p>
 <p align="justify">Waiting list open allows users to sign up for future or additional sale. In case tickets are sold out or the sale has ended, there will be an additional link to Subscribe to waiting list. To see all the subscriptions, use Show waiting list button.</p>
+</section>
 {% endblock %}
