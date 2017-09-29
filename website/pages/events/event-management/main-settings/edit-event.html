@@ -1,28 +1,68 @@
 {% extends "layouts/base.html" %}
 {% block content %}
 <section>
-  <h5 class="title is-4">Event details</h5>
-<ul>
-<li><p align="justify">EVENT NAME → Enter the name of your event. Give your potential attendees quick information on what the event is about. Make it catchy to draw huge audience.</p></li>
-
-<li><p align="justify">URL, TWITTER → Enter any extra web address for your event, webpage or group.</p></li>
-
-<li><p align="justify">TWITTER → Only handle without @ sign</p></li>
-
-<li><p align="justify">SLUG → Get the web address for your event!</p></li>
-
-<li><p align="justify">STARTS AT, ENDS AT → Enter start and ending dates so the attendees know when your event takes place.</p></li>
-<li><p align="justify">ADDRESS → Enter the city or more exact address for your event. Location is important for people so precise it.</p></li>
-
-<li><p align="justify">PLACE NAME → Enter the name of a lecture room, cafe etc. where you are going to make the event so your attendees know what to expect and what they should bring with them.</p></li>
-
-<li><p align="justify">DESCRIPTION → Write more about your event: what it is about, how long it will take place, why you organize it, who will give talks, what is the purpose of your action etc. The more you write, the more people will know about. They will feel welcome to come.</p></li>
-
-<li><p align="justify">ADD POSTER → Add a photo or picture for your event. A lot of people pay more attention to events with visual elements.</p></li>
-
-<li><p align="justify">TOPIC LIST → Let the attendees know about your primary languages for the event.</p></li>
-
-<li><p align="justify">UPDATE → Click CREATE and it's done!</p></li>
-</ul>
+<h5 class="title is-4">Edit Event</h5>
+<p align="justify">Updating your event details is simpler than ever. The fields are the same as in "Create Event"".</p>
+<p align="justify"><span class="tag is-success"><b>REMEMBER!</b></span>  <small>Your event is not visible to the audience until you publish it in Event Management.</small></p>
 </section>
-{% endblock %}
+<section>
+<p align="justify">Here you can update:</p>
+</section>
+<section>
+  <h5 class="title is-5">Part 1: Basic Event Information</h5>
+  </section>
+  <section>
+  <h5 class="title is-6"><b>1. Event Name</b></h5>
+  <p align="justify">Enter the name of your event. Give your potential attendees quick information on what the event is about. Make it catchy to draw huge audience. For example: PolyConf 17.</p>
+  <img src="/images/name.svg" alt="Event-name-photo"/>
+  <p align="justify"><span class="tag is-success"><b>TIP</b></span> <small>Don't use a long name. Make it concrete.</small></p>
+  </section>
+  <section>
+  <h5 class="title is-6"><b>2. External Sources</b></h5>
+  <p align="justify">Enter any extra web address for your event, webpage or group. Give your potential attendees the possibility to know your event better.</p>
+  <img src="/images/url.svg" alt="External-sources-photo"/>
+  <p align="justify"><span class="tag is-success"><b>Twitter</b></span>  <small>Only handle without @ sign</small></p>
+  </section>
+  <section>
+  <h5 class="title is-6"><b>3. Slug</b></h5>
+  <p align="justify">Get the web address for your event. It will be generated automatically based on your event name but you can also change it by entering your own slug. For example: polyconf-17.</p>
+  <img src="/images/slug.svg" alt="Slug-photo"/>
+  </section>
+  <section>
+  <h5 class="title is-6"><b>4. Timing</b></h5>
+  <p align="justify">Enter start and ending dates so the attendees know when your event takes place.</p>
+  <img src="/images/timing.svg" alt="Timing-photo"/>
+  </section>
+  <section>
+  <h5 class="title is-5">Part 2: Type of Concerence</h5>
+  </section>
+  <section>
+  <p align="justify"><b>1. Location Type</b></p>
+  <p align="justify">First, choose the type of location. If you choose "Onsite", you will be asked to fill in address details so the attendees know where it takes place. If you choose "Online", address details won't be required.</p>
+  <img src="/images/location.svg" alt="Location-photo"/>
+  </section>
+  <section>
+  <p align="justify"><b>2. Address Details </b><span class="tag is-success"><b>Required only if you chose "Onsite"</b></span>
+  <p align="justify">Enter the city or more exact address for your event. Location is important for people so precise it. Enter the name of a lecture room, cafe etc. where you are going to make the event so your attendees know what to expect and what thay should bring with them.</p>
+  <img src="/images/address.svg" alt="Address-photo"/>
+  <p align="justify"><span class="tag is-success"><b>TIP</b></span> <small>If you’re not sure what your venue will be, you can just enter a city and a country and mark TBA in "Place Name".</small></p>
+  </section>
+  <section>
+  <p align="justify"><b>3. Description</b></p>
+  <p align="justify">Write more about your event: what it is about, how long it will take place, why you organize it, who will give talks, what the purpose of your action is etc. The more you write, the more people will know about it. They will feel welcome to come.</p>
+  <img src="/images/description.svg" alt="Description-photo"/>
+  </section>
+  <section>
+  <h5 class="title is-5">Part 3: Detailed Information</h5>
+  </section>
+  <section>
+  <p align="justify"><b>1. Add poster</b></p>
+  <p align="justify">Add a photo or picture for your event. A lot of people pay more attention to events with visual elements.</p>
+  <img src="/images/poster.svg" alt="Poster-photo"/>
+  </section>
+  <section>
+  <p align="justify"><b>2. Topic list</b></p>
+  <p align="justify">Let the attendees know about your primary languages for the event. It helps people to find the event and specify if it is what they are looking for.</p>
+  <img src="/images/topic.svg" alt="Topic-photo"/>
+  </section>
+  {% endblock %}
