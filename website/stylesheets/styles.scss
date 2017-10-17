@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Lato:400, 700');
 
 * {
   box-sizing: border-box;
@@ -54,7 +54,7 @@ a {
     align-items: flex-end;
     width: calc((100% - 994px) / 2 + 226px);
     min-width: 252px;
-    background: #fafafa;
+    background: #f8f8f9;
     border-right: 1px solid #e0e0e0;
     z-index: 5;
 
@@ -65,6 +65,16 @@ a {
       .sidebar-inner {
         padding: 20px;
         width: 226px;
+
+        .menu-submenu {
+
+          li {
+
+            > a {
+              text-transform: none;
+            }
+          }
+        }
 
         > ul {
           position: absolute;
@@ -87,10 +97,18 @@ a {
           li {
             line-height: 28px;
 
-            a {
+            > a {
               padding-left: 0;
+              margin-bottom: 12px;
               font-size: 15px;
-              color: #0d2b3e;
+              font-weight: 700;
+              color: rgba(23,42,58,.5);
+              text-transform: uppercase;
+
+              img {
+                margin-right: 15px;
+                vertical-align: bottom;
+              }
 
               &:focus,
               &:hover {
@@ -171,6 +189,42 @@ a {
             margin-bottom: 20px;
           }
 
+          .part {
+            padding: 15px 20px;
+            border: 1px solid #e0e0e0;
+            border-radius: 3px;
+
+            &.part-events {
+
+              .part-icon {
+
+                img {
+                  fill: #3498db;
+                }
+              }
+            }
+
+            .part-icon {
+              margin-bottom: 15px;
+              width: 72px;
+              height: 72px;
+              display: flex;
+              border: 1px solid #e0e0e0;
+              border-radius: 50%;
+              justify-content: center;
+              align-items: center;
+            }
+
+            .title {
+              margin-bottom: 10px;
+            }
+
+            p {
+              margin-bottom: 0;
+              color: #373e42;
+            }
+          }
+
           ul {
             padding-left: 40px;
             margin-bottom: 20px;
@@ -184,4 +238,28 @@ a {
         }
       }
     }
+}
+
+#footer {
+  padding: 40px 0;
+
+  .widget-title {
+    margin-bottom:  20px;
+    text-transform: uppercase;
+    font-size: 15px;
+    color: rgba(23,42,58,.5);
+  }
+
+  ul {
+    list-style: none;
+
+    li {
+
+      a {
+        padding: 4px 0;
+        display: block;
+        color: rgba(23,42,58,.7);
+      }
+    }
+  }
 }
