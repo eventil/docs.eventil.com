@@ -64,13 +64,24 @@ a {
 
       .sidebar-inner {
         padding: 20px;
-        width: 226px;
+        width: 280px;
+
+        .menu-list li ul {
+          margin-left: 0;
+          border: none;
+        }
 
         .menu-submenu {
+          border: none;
 
           li {
 
             > a {
+              padding: 0;
+              margin-bottom: 5px;
+              color: rgba(23,42,58,.7);
+              font-size: 14px;
+              font-weight: 400;
               text-transform: none;
             }
           }
@@ -83,7 +94,7 @@ a {
           height: calc(100vh - 150px);
 
           > ul {
-            margin-left: 20px;
+            margin-left: 40px;
 
             &.d-none {
               display: none;
@@ -96,6 +107,10 @@ a {
 
           li {
             line-height: 28px;
+
+            > ul {
+              margin-left: 15px;
+            }
 
             > a {
               padding-left: 0;
