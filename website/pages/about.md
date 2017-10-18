@@ -1,6 +1,5 @@
 {% extends "layouts/base.html" %}
 {% block content %}
-
 {% markdown %}
 # About
 

@@ -26,10 +26,14 @@
               <a href="#">Sign Up</a>
             </li>
           </ul>
-        </nav>
-      </header>
-      <article>
-        {% block content %}{% endblock %}
+      </nav>
+    </header>
+    <article class="content">
+      {% block content %}
+      <section class="section">
+        <div class="content">{{ content | safe }}</div>
+      </section>
+      {% endblock %}
       </article>
     </main>
   </div>
