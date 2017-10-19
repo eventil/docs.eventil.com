@@ -2,10 +2,14 @@
 
 In "Attendees" section you can see people who are attending your event.
 
-<img src="/images/attendees.svg" alt="Attendees-photo"/>
+![Attendees Photo](/images/attendees.svg)
+
+---
 
 You can use it to mark people's presence.
 
-<img src="/images/presence.svg" alt="Presence-photo"/>
+![Presence Photo](/images/presence.svg)
+
+---
 
 You see how many tickets each person has bought and you can browse their profiles.

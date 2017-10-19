@@ -2,15 +2,17 @@
 
 You can create and sell tickets for your event using Eventil.
 
+---
+
 ### How to create tickets?
 
 Go to your event management page and then to “Tickets” section.
 
-<img src="/images/tickets1.svg" alt="Tickets-photo"/>
+![Tickets Photo](/images/tickets1.svg)
 
 Here, by clicking “Add New Ticket”, you can start preparing tickets.
 
-<img src="/images/tickets2.svg" alt="Tickets-photo"/>
+![Tickets Photo](/images/tickets2.svg)
 
 Enter the necessary information:
 
@@ -21,8 +23,16 @@ Enter the necessary information:
 * Price → Your attendees can get tickets for free (price 0.00) or you can set a price for them. Remember about the VAT rate.
 
 Click “Create” and your tickets are ready.
+
 You can add several types of tickets.
 
-<img src="/images/tickets3.svg" alt="Tickets-photo"/>
+![Tickets Photo](/images/tickets3.svg)
 
-<span class="tag is-success"><b>IMPORTANT</b></span>  <small>Event with paid tickets is required to have an organization with a payment gateway connected. Check "Billing" for more details.</small>
+<article class="message is-warning">
+  <div class="message-header">
+    IMPORTANT
+  </div>
+  <div class="message-body">
+    Event with paid tickets is required to have an organization with a payment gateway connected. Check "Billing" for more details.
+  </div>
+</article>

@@ -1,19 +1,6 @@
-## Edit Event
+## How to create an event
 
-Updating your event details is simpler than ever. The fields are the same as in "Create Event"".
-
-<article class="message is-warning">
-  <div class="message-header">
-    REMEMBER!
-  </div>
-  <div class="message-body">
-    Your event is not visible to the audience until you publish it in Event Management.
-  </div>
-</article>
-
----
-
-Here you can update:
+To get started, sign up or log in to your Eventil account. Choose "CREATE EVENT" and you will be brought to the right section. Creating events is based on three main parts: basic event information, type of conference and detailed information.
 
 ---
 

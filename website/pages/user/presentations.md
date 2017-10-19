@@ -2,7 +2,9 @@
 
 Here is a list of all your presentations submitted to various conferences along with their statuses.
 
-<img src="/images/presentations1.svg" alt="Presentations-photo"/>
+![Presentations Photo](/images/presentations1.svg)
+
+---
 
 ### What does each colour along presentations mean?
 
@@ -10,34 +12,43 @@ Here is a list of all your presentations submitted to various conferences along 
 * Yellow - your presentation is pending. It is waiting for an action. It may be accepted or rejected.
 * Red - your presentation has been rejected.
 
+---
+
 ### How to add a new presentation?
 
 Click “Add Presentation”.
 
-<img src="/images/addpresentation.svg" alt="Add-presentation-photo"/>
+![Add Presentation Photo](/images/addpresentation.svg)
 
 Start entering necessary information.
 
-<img src="/images/presentations2.svg" alt="Presentations-photo"/>
+![Presentations Photo](/images/presentations2.svg)
 
-#### Step 1: Event Name
+**#### Step 1: Event Name**
 
 In “Event Name” you can look for the event you spoke at. Auto-complete option will help you to find a suitable event. But if it’s not on the list, you can type the name on your own.
 
-#### Step 2: Kind
+**#### Step 2: Kind**
 
 You can choose what kind of presentation it is. You have 4 options here: talk, workshop, keynote and lightning.
 
-#### Step 3: Title and Abstract
+**#### Step 3: Title and Abstract**
 
 Enter the presentation’s name and provide a short abstract.
 
-#### Step 4: Video
+**#### Step 4: Video**
 
 If your presentation is available on YouTube, you can paste a video id here as well.
 
-#### Step 5: Create
+**#### Step 5: Create**
 
 Click “Create” and it’s ready.
 
-<span class="tag is-success"><b>IMPORTANT!</b></span>  <small>After adding a presentation it will be visible on your profile only for you. Next to it you will see what its status is - pending, rejected or accepted, and if it's already published or not. Only after accepting and publishing your presentation by an event organiser or Eventil staff it will be visible to the public.</small>
+<article class="message is-warning">
+  <div class="message-header">
+    IMPORTANT!
+  </div>
+  <div class="message-body">
+    After adding a presentation it will be visible on your profile only for you. Next to it you will see what its status is - pending, rejected or accepted, and if it's already published or not. Only after accepting and publishing your presentation by an event organiser or Eventil staff it will be visible to the public.
+  </div>
+</article>

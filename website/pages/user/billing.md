@@ -2,17 +2,21 @@
 
 Here you can see Billing Overview and Payment History.
 
-<img src="/images/psbilling.svg" alt="Billing-photo"/>
+![Billing Photo](/images/psbilling.svg)
+
+---
 
 ### Billing Overview
 
 Here you can see what your speaker plan is. You can also upgrade it here by clicking "Upgrade to get more features".
 
-<img src="/images/upgrade.svg" alt="Upgrade-photo"/>
+![Upgrade Photo](/images/upgrade.svg)
 
 Choose the plan you are interested in and provide your credit card details. The appropriate amount will be charged every month.
 
-To find out more about speaker plans check <a target="_blank" href="https://eventil.com/for/speakers">Eventil for Speakers.</a>
+To find out more about speaker plans check [Eventil for Speakers]https://eventil.com/for/speakers).
+
+---
 
 ### Payment History
 
