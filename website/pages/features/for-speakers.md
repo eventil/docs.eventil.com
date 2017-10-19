@@ -12,14 +12,19 @@ Collect your speaking appearances in a single place to increase your tech expert
 
 Manage speaking engagements requests from organisers of tech conferences & meetings around the world.
 
+---
+
 ### BENEFITS
+
+---
+
 #### SPEAKER VISIBILITY
 
-We can create a speaker profile where you can track your involvement in various tech conferences or smaller events showcasing your technical skills at the same time 
+We can create a speaker profile where you can track your involvement in various tech conferences or smaller events showcasing your technical skills at the same time
 
 #### DRAFTS MANAGEMENT
 
-We provide a centralized repository to manage drafts of your talks and workshops which can be easily submitted as proposals to tech events 
+We provide a centralized repository to manage drafts of your talks and workshops which can be easily submitted as proposals to tech events
 
 #### REST OR GRAPHQL API
 
@@ -27,7 +32,7 @@ We give you a constant access to your profile data so you can easily integrate i
 
 #### EVENT/CFP NOTIFICATIONS
 
-We notify you about « Call for Proposals » annoucements from events related to your technical skill set so you don't need to waste time on searching them yourself 
+We notify you about « Call for Proposals » annoucements from events related to your technical skill set so you don't need to waste time on searching them yourself
 
 #### SPEAKER PROMOTION
 

@@ -2,7 +2,7 @@
 
 Here you can change your password.
 
-<img src="/images/account.svg" alt="Account-photo"/>
+![Account Photo](/images/account.svg)
 
 You have to type in a new password, confirm it and enter the current one.
 

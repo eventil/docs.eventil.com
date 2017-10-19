@@ -1,15 +1,18 @@
 ## Mailings
+
 Do you plan to change an event location? Or you have a very important information to communicate? Mailing is an easy and quick way to keep in touch with your event audience.
+
+---
 
 ### How to create mailings?
 
 Go to "Mailings" section.
 
-<img src="/images/mailing1.svg" alt="Mailing-photo"/>
+![Mailing Photo](/images/mailing1.svg)
 
 Click “Add Mailing”.
 
-<img src="/images/mailing2.svg" alt="Mailing-photo"/>
+![Mailing Photo](/images/mailing2.svg)
 
 The name of your event will automatically appear in the “Name” field (we advise you to leave it that way - the recipients will know which event this mailing concerns).
 
@@ -17,18 +20,20 @@ Choose the reply-to email (your current account email will appear in the field a
 
 In “To” field you can choose to which group of people your mailing will be sent.
 
-<img src="/images/mailing3.svg" alt="Mailing-photo"/>
+![Mailing Photo](/images/mailing3.svg)
 
 Write your message, enter the subject and click “Create”.
 
 In “Mailings” section you can see the created mailing.
 
-<img src="/images/mailing4.svg" alt="Mailing-photo"/>
+![Mailing Photo](/images/mailing4.svg)
+
+---
 
 Next steps:
 
 * send preview - it is good to check the mailing first, using this option you will send the mailing only to yourself
-* send preview to admins - you will send the mailing to your event admins (you and people who you have assigned as admins, check “Cooperations”) 
+* send preview to admins - you will send the mailing to your event admins (you and people who you have assigned as admins, check “Cooperations”)
 * send - the mailing will be sent to the chosen group
 * edit - if you see the mistake or you want to change something, you can always edit your mailing
 * destroy - you can delete the created mailing, take into account that you can’t destroy the mailing that has already been sent

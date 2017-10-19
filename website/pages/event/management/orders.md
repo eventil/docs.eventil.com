@@ -8,6 +8,6 @@ Orders are grouped into three groups:
 * Unsuccessful orders
 * Correcting orders
 
-<img src="/images/orders1.svg" alt="Orders-photo"/>
+![Orders Photo](/images/orders1.svg)
 
 You can then see all invoices, download xls file with orders' information and also print them.
