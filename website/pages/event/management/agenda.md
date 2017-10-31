@@ -6,11 +6,11 @@ You can create an agenda for your event. Show the attendees what is the schedule
 
 In Event Management go to "Agenda" section.
 
-![Agenda Photo](/images/agenda1.svg)
+![Agenda Photo](/images/ag1.svg)
 
 Here you have an option to "Add new session". Just click it and you can start entering details.
 
-![Agenda Photo](/images/agenda2.svg)
+![Agenda Photo](/images/ag2.svg)
 
 Here you can choose the day when a session takes place, enter start and end time and choose what kind of session it is.
 
@@ -27,10 +27,10 @@ Here you can choose the day when a session takes place, enter start and end time
 
 <article class="message is-info">
   <div class="message-header">
-    Tip 
+    Tip
   </div>
   <div class="message-body">
-    Sessions can be filtered by kinds in a created agenda. 
+    Sessions can be filtered by kinds in a created agenda.
   </div>
 </article>
 
@@ -48,5 +48,3 @@ You can choose sessions from the existing list of presentations on your event in
     Each session has to entered separately.
   </div>
 </article>
-
-

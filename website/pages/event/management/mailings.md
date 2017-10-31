@@ -8,11 +8,11 @@ Do you plan to change an event location? Or you have a very important informatio
 
 Go to "Mailings" section.
 
-![Mailing Photo](/images/mailing1.svg)
+![Mailing Photo](/images/mailings3.svg)
 
 Click “Add Mailing”.
 
-![Mailing Photo](/images/mailing2.svg)
+![Mailing Photo](/images/mailings2.svg)
 
 The name of your event will automatically appear in the “Name” field (we advise you to leave it that way - the recipients will know which event this mailing concerns).
 
@@ -26,7 +26,7 @@ Write your message, enter the subject and click “Create”.
 
 In “Mailings” section you can see the created mailing.
 
-![Mailing Photo](/images/mailing4.svg)
+![Mailing Photo](/images/mailings1.svg)
 
 ---
 

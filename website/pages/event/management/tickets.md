@@ -8,11 +8,11 @@ You can create and sell tickets for your event using Eventil.
 
 Go to your event management page and then to “Tickets” section.
 
-![Tickets Photo](/images/tickets1.svg)
+![Tickets Photo](/images/tick-1.svg)
 
 Here, by clicking “Add New Ticket”, you can start preparing tickets.
 
-![Tickets Photo](/images/tickets2.svg)
+![Tickets Photo](/images/tick-2.svg)
 
 Enter the necessary information:
 
@@ -26,7 +26,7 @@ Click “Create” and your tickets are ready.
 
 You can add several types of tickets.
 
-![Tickets Photo](/images/tickets3.svg)
+![Tickets Photo](/images/tick-3.svg)
 
 <article class="message is-warning">
   <div class="message-header">

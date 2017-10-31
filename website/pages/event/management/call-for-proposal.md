@@ -10,7 +10,7 @@ You don't have to rely on tools such as Google Forms, WuFoo Forms and other!
 
 Go to "Call for Proposals" section.
 
-![CFP Photo](/images/cfp1.svg)
+![CFP Photo](/images/cfp-settings.svg)
 
 Write a description. It will be visible to your potential speakers. Set the start and end date and it’s done.
 
@@ -55,7 +55,7 @@ When someone adds a new idea, the section "Presentation Ideas" will appear in yo
 
 In this section you can see what the ideas are and how many people voted for a specific idea.
 
-![Ideas Photo](/images/ideas4.svg)
+![Ideas Photo](/images/pres-ideas.svg)
 
 ---
 
