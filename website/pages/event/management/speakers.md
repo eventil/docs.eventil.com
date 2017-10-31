@@ -2,7 +2,7 @@
 
 Here you can find speakers who submitted a talk or a workshop proposal to your event.
 
-![Speakers Photo](/images/speakers.svg)
+![Speakers Photo](/images/speakers-new.svg)
 
 You can also browse speakers in specific groups (accepted, pending, rejected and votable) based on how their proposals were marked in "Presentations" section.
 

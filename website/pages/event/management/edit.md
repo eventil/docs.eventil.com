@@ -21,7 +21,7 @@ Here you can update:
 
 ---
 
-**#### 1. Event Name**
+#### **1. Event Name**
 
 Enter the name of your event. Give your potential attendees quick information on what the event is about. Make it catchy to draw huge audience. For example: PolyConf 17.
 
@@ -38,7 +38,7 @@ Enter the name of your event. Give your potential attendees quick information on
 
 ---
 
-**#### 2. External Sources**
+#### **2. External Sources**
 
 Enter any extra web address for your event, webpage or group. Give your potential attendees the possibility to know your event better.
 
@@ -55,7 +55,7 @@ Enter any extra web address for your event, webpage or group. Give your potentia
 
 ---
 
-**#### 3. Slug**
+#### **3. Slug**
 
 Get the web address for your event. It will be generated automatically based on your event name but you can also change it by entering your own slug. For example: polyconf-17.
 
@@ -63,7 +63,7 @@ Get the web address for your event. It will be generated automatically based on 
 
 ---
 
-**#### 4. Timing**
+#### **4. Timing**
 
 Enter start and ending dates so the attendees know when your event takes place.
 
@@ -75,14 +75,14 @@ Enter start and ending dates so the attendees know when your event takes place.
 
 ---
 
-**#### 1. Location Type**
+#### **1. Location Type**
 First, choose the type of location. If you choose "Onsite", you will be asked to fill in address details so the attendees know where it takes place. If you choose "Online", address details won't be required.
 
 ![Location Photo](/images/location.svg)
 
 ---
 
-**#### 2. Address Details**
+#### **2. Address Details**
 
 <article class="message is-warning">
   <div class="message-header">
@@ -105,7 +105,7 @@ Enter the city or more exact address for your event. Location is important for p
 
 ---
 
-**#### 3. Description**
+#### **3. Description**
 
 Write more about your event: what it is about, how long it will last, why you organize it, who will give talks, what the purpose of your action is etc. The more you write, the more people will know about it. They will feel welcome to come.
 
@@ -117,7 +117,7 @@ Write more about your event: what it is about, how long it will last, why you or
 
 ---
 
-**#### 1. Add poster**
+#### **1. Add poster**
 
 Add a photo or picture for your event. A lot of people pay more attention to events with visual elements.
 
@@ -125,7 +125,7 @@ Add a photo or picture for your event. A lot of people pay more attention to eve
 
 ---
 
-**#### 2. Topic list**
+#### **2. Topic list**
 
 Let the attendees know about your primary languages for the event. It helps people to find the event and specify if it is what they are looking for.
 

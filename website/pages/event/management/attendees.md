@@ -2,7 +2,7 @@
 
 In "Attendees" section you can see people who are attending your event.
 
-![Attendees Photo](/images/attendees.svg)
+![Attendees Photo](/images/attendees-new.svg)
 
 ---
 

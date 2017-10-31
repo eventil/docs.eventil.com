@@ -2,25 +2,21 @@
 
 Here's a list of presentations submitted to your event in response to Call for Proposals.
 
-![Presentations Photo](/images/pres4.svg)
+![Presentations Photo](/images/pres-new.svg)
 
 At the beginning presentations are marked as "pending" and they wait for your action. You can then mark them as accepted, rejected or votable. You can also publish them (only after publishing they will be visible on your event page). Once marked, you can browse them in specific groups.
 
-![Presentations Photo](/images/pres5.svg)
+![Presentations Photo](/images/statuses.svg)
 
 ---
 
-### Grades
+### Grades, comments and labels
 
 Presentations can be marked with grades by organizers and reviewers (checkout out "Group Memberships" to find out more about reviewers).
 
-![Presentations Photo](/images/pres3.svg)
+You can also add comments to presentations and mark them with labels. Click the presentation's name and you will get there.
 
----
-
-### Comments and labels
-
-You can add comments to presentations and mark them with labels. Click the presentation's name and you will get there.
+![Presentations Photo](/images/pres-options.svg)
 
 <article class="message is-warning">
   <div class="message-header">
@@ -30,8 +26,6 @@ You can add comments to presentations and mark them with labels. Click the prese
     Labels has to be determined first in "Labels" section. Only after creating needed labels you will be able to mark presentations with them.
   </div>
 </article>
-
-![Presentations Photo](/images/pres1.svg)
 
 ---
 

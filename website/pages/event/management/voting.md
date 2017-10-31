@@ -8,7 +8,7 @@ Activate Voting and ask your community which talks should be selected for your e
 
 Go to "Voting" section.
 
-![Voting Photo](/images/voting.svg)
+![Voting Photo](/images/voting-new.svg)
 
 Enter the start and end date for your voting and add a necessary description.
 
