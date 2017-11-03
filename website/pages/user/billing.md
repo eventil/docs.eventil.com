@@ -2,7 +2,7 @@
 
 Here you can see Billing Overview and Payment History.
 
-![Billing Photo](/images/psbilling.svg)
+![Billing Photo](/images/billing-new2.svg)
 
 ---
 

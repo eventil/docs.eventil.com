@@ -1,7 +1,7 @@
 ## Your Groups
 Here you can find a list of all groups you manage and create a new one.
 
-![Your Groups Photo](/images/yourgroups.svg)
+![Your Groups Photo](/images/your-groups-new.svg)
 
 ---
 
@@ -11,15 +11,15 @@ Click "Add Group" and enter the necessary information.
 
 ![Create Group Photo](/images/creategroup.svg)
 
-**#### Step 1: Group name**
+#### **Step 1: Group name**
 
 Enter the name of your group.
 
-**#### Step 2: Description**
+#### **Step 2: Description**
 
 Provide a short description on what your group does, what its aim is, etc.
 
-**#### Step 3: Details**
+#### **Step 3: Details**
 
 Add additional information:
 * Website - if your group has a website, enter its url.
@@ -34,7 +34,7 @@ Add additional information:
 </article>
 
 
-* Twitter - provide your group's Twitter handle. 
+* Twitter - provide your group's Twitter handle.
 
 <article class="message is-warning">
   <div class="message-header">
@@ -48,10 +48,10 @@ Add additional information:
 * Hashtag - type in a hashtag for your group.
 * Contact Email - enter your group's email so as people can contact you easily.
 
-**#### Step 4: Avatar**
+#### **Step 4: Avatar**
 
 Add an avatar for your group.
 
-**#### Step 5: Create**
+#### **Step 5: Create**
 
 Click “Create” and it’s ready.

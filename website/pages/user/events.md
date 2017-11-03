@@ -2,4 +2,4 @@
 
 Here you can find a list of all events you manage and browse them easily.
 
-![Your Events Photo](/images/yourevents.svg)
+![Your Events Photo](/images/your-events-new.svg)

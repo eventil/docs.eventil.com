@@ -2,7 +2,7 @@
 
 Here is a list of all your presentations submitted to various conferences along with their statuses.
 
-![Presentations Photo](/images/presentations1.svg)
+![Presentations Photo](/images/pres1-new.svg)
 
 ---
 
@@ -22,25 +22,25 @@ Click “Add Presentation”.
 
 Start entering necessary information.
 
-![Presentations Photo](/images/presentations2.svg)
+![Presentations Photo](/images/pres2-new.svg)
 
-**#### Step 1: Event Name**
+#### **Step 1: Event Name**
 
 In “Event Name” you can look for the event you spoke at. Auto-complete option will help you to find a suitable event. But if it’s not on the list, you can type the name on your own.
 
-**#### Step 2: Kind**
+#### **Step 2: Kind**
 
 You can choose what kind of presentation it is. You have 4 options here: talk, workshop, keynote and lightning.
 
-**#### Step 3: Title and Abstract**
+#### **Step 3: Title and Abstract**
 
 Enter the presentation’s name and provide a short abstract.
 
-**#### Step 4: Video**
+#### **Step 4: Video**
 
 If your presentation is available on YouTube, you can paste a video id here as well.
 
-**#### Step 5: Create**
+#### **Step 5: Create**
 
 Click “Create” and it’s ready.
 

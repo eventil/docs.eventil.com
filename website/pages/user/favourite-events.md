@@ -2,7 +2,7 @@
 
 Here you can see all your favourite events.
 
-![Favourite Events Photo](/images/favourite.svg)
+![Favourite Events Photo](/images/favourite-events-new.svg)
 
 
 <article class="message is-warning">
