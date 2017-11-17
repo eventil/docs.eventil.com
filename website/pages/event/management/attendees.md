@@ -6,9 +6,9 @@ In "Attendees" section you can see people who are attending your event.
 
 ---
 
-You can use it to mark people's presence.
-
 ![Presence Photo](/images/presence.svg)
+
+You can use it to mark people's presence.
 
 ---
 

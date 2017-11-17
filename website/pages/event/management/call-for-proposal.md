@@ -31,15 +31,15 @@ Click "Add custom field", choose the type of the field (checkboxes, questions et
 
 **1. CFP Always Open**
 
-If checked Call For Proposal url and submission will always be available. This setting doesn't affect CFP info box on the event page. Info box display is based on START/END dates.
+If checked, Call For Proposal url and submission will always be available. This setting doesn't affect CFP info box on the event page. Info box display is based on START/END dates.
 
 **2. Code of Conduct**
 
-If checked the Code of Conduct will show on CFP page for speaker's submission.
+If checked, the Code of Conduct will show on CFP page for speaker's submission.
 
 **3. Ideas Enabled**
 
-If checked logged in users can submit their ideas for presentations. You will find out what people are interested in and what they expect from your event's talks or workshops. Ideas are votable.
+If checked, logged in users can submit their ideas for presentations. You will find out what people are interested in and what they expect from your event's talks or workshops. Ideas are votable.
 
 Ideas can be submitted at https://eventil.com/events/EVENT_SLUG/ideas
 
