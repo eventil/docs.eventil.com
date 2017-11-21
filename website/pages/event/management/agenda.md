@@ -1,3 +1,8 @@
+---
+name: agenda
+list: events
+---
+
 ## Agenda
 
 You can create an agenda for your event. Show the attendees what is the schedule. During creation you can choose kinds of sessions, their start and end time.
