@@ -1,4 +1,3 @@
-
 html, body {
   font-size: 15px;
   color: #373e42;
@@ -54,6 +53,11 @@ html, body {
               font-size: 14px;
               font-weight: 400;
               text-transform: none;
+
+              &.is-active {
+                background: transparent;
+                color: #3273dc;
+              }
             }
           }
         }
@@ -90,6 +94,11 @@ html, body {
               font-weight: 700;
               color: rgba(23,42,58,.5);
               text-transform: uppercase;
+
+              &.is-active {
+                background: transparent;
+                color: #3273dc;
+              }
 
               img {
                 margin-right: 15px;
