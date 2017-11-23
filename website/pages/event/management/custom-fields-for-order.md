@@ -1,6 +1,6 @@
 ## Custom Fields For Order
 
-Activate Order Custom Field to specify custom fields for your order form. They will show up during ticket purchase.
+Activate Order Custom Fields for your order form. They will show up during ticket purchase.
 
 ---
 

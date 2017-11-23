@@ -13,10 +13,6 @@ Updating your event details is simpler than ever. The fields are the same as in 
 
 ---
 
-Here you can update:
-
----
-
 ### Part 1: Basic Event Information
 
 ---

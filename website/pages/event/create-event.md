@@ -1,6 +1,6 @@
 ## How to create an event
 
-To get started, sign up or log in to your Eventil account. Choose "CREATE EVENT" and you will be brought to the right section. Creating events is based on three main parts: basic event information, type of conference and detailed information.
+To get started, sign up or log in to your Eventil account. Choose CREATE EVENT and you will be brought to the right section. Creating events is based on three main parts: basic event information, type of conference and detailed information.
 
 ---
 

@@ -14,7 +14,7 @@ Here you can see what your speaker plan is. You can also upgrade it here by clic
 
 Choose the plan you are interested in and provide your credit card details. The appropriate amount will be charged every month.
 
-To find out more about speaker plans check [Eventil for Speakers]https://eventil.com/for/speakers).
+To find out more about speaker plans check <a href="#"><a href="https://eventil.com/for/speakers">Eventil for Speakers</a>.
 
 ---
 

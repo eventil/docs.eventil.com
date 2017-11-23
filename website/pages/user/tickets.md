@@ -17,7 +17,7 @@ If you want to see your invoice, choose "View Order". There you will find your i
 
 ### How to transfer the ticket to someone else?
 
-If you bought the ticket for someone not for you, you can transfer it to their account. First, please ask the person to create an account on Eventil (if they still do not have it). The ticket will be available on their Eventil account as it is available on yours. Once done, log in and go to "Settings" → "Tickets".
+If you have bought a ticket but you are not an attendee (you have bought it for your worker, friend, etc.), you can transfer the ticket to their account. First, please ask the person to create an account on Eventil (if they still do not have it). The ticket will be available on their Eventil account as it is available on yours. Once done, log in and go to "Settings" → "Tickets".
 
 ![Tickets Photo](/images/tickets1-new.svg)
 
