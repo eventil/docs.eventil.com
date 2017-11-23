@@ -3,13 +3,20 @@
 
   'use strict';
 
-  let accordions, i;
+  let i;
+  let accordions;
 
   function makeAccordion(accordion) {
     let targets, currentTarget;
     targets = accordion.querySelectorAll('.menu-list >  .accordion-toggle');
 
     function expand() {
+      let active = document.querySelectorAll('a.toggle.accordion-toggle.is-active');
+      for (i = 0; i < active.length; i += 1) {
+        active[i].classList.remove('is-active');
+      }
+      this.getElementsByClassName('toggle')[0].classList.add('is-active');
+
       if (currentTarget) {
         currentTarget.classList.remove('d-block');
         currentTarget.classList.add('d-none');
