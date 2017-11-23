@@ -1,3 +1,9 @@
+---
+name: profile
+list: user
+---
+<section>
+
 ## Your profile
 
 Here you can enter and change your personal information.
@@ -12,3 +18,4 @@ Here you can enter and change your personal information.
     On profile page you have an option of "Are you available for hire" checkbox. Mark it if you are willing to receive job proposals.
   </div>
 </article>
+</section>

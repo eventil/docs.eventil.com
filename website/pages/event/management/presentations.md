@@ -1,3 +1,9 @@
+---
+name: presentations
+list: events
+---
+<section>
+
 ## Presentations
 
 Here's a list of presentations submitted to your event in response to Call for Proposals.
@@ -57,3 +63,4 @@ You can add slides and videos to the presentations. Choose "Upload slides" and y
 Using an option "Download xls", you can download a file with presentations information in a xls format.
 
 ![XLS Photo](/images/xls.svg)
+</section>

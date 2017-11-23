@@ -1,3 +1,9 @@
+---
+name: edit
+list: events
+---
+<section>
+
 ## Edit Event
 
 Updating your event details is simpler than ever. The fields are the same as in "Create Event"".
@@ -126,3 +132,4 @@ Add a photo or picture for your event. A lot of people pay more attention to eve
 Let the attendees know about your primary languages for the event. It helps people to find the event and specify if it is what they are looking for.
 
 ![Topic Photo](/images/topic.svg)
+</section>

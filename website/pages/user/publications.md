@@ -1,3 +1,9 @@
+---
+name: pubs
+list: user
+---
+<section>
+
 ## Publications
 
 Here is a list of all your added publications.
@@ -39,3 +45,4 @@ Choose the topic of your publication. It’s not required but it’s useful. Man
 #### **Step 7: Create**
 
 Click “Create” and it’s done.
+</section>

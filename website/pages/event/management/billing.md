@@ -1,3 +1,9 @@
+---
+name: billing
+list: events
+---
+<section>
+
 ## Billing
 
 Billing lets you define the organization data for selling paid tickets.
@@ -26,3 +32,4 @@ The most import details are "Name" and "VATID".
 ---
 
 Contact us at <a href="mailto:hello@eventil.com">hello@eventil.com</a> in order to connect other gateways.
+</section>

@@ -1,3 +1,9 @@
+---
+name: ticket
+list: user
+---
+<section>
+
 ## Tickets
 
 Here you can manage your tickets.
@@ -26,3 +32,4 @@ Choose "Show Tickets". Then choose "Transfer Ticket". Here you have to enter the
 ![Transfer Ticket Photo](/images/tickets3-new.svg)
 
 Click "Save" and the ticket is transferred.
+</section>

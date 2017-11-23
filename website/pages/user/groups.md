@@ -1,3 +1,9 @@
+---
+name: groups
+list: user
+---
+<section>
+
 ## Your Groups
 Here you can find a list of all groups you manage and create a new one.
 
@@ -55,3 +61,4 @@ Add an avatar for your group.
 #### **Step 5: Create**
 
 Click “Create” and it’s ready.
+</section>

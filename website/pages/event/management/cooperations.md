@@ -1,3 +1,9 @@
+---
+name: cooperations
+list: events
+---
+<section>
+
 ## Cooperations
 
 You can choose with which groups you want to cooperate on your event. You don't have to manage everything on your own. By default event creator is the one that can manage the event. You can easily modify this by cooperation with group. After you pick groups you would like to cooperate and submit request, one of group aministrators will have to accept it. When it is done all group(s) administrators will be given access to your event management. The result of accepted cooperation is visible on the event page - all event administrators will be listed there with all cooperating groups below.
@@ -52,3 +58,4 @@ Here you see all sent requests for cooperations. Click "Accept" and the cooperat
 * Admins from chosen groups become admins of your event after request is accepted.
 * If administrator is removed from group, he/she is be also removed from event administrators.
 * If coopearation is cancelled all group aministrators are removed from event administrators.
+</section>

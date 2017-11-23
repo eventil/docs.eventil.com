@@ -1,3 +1,9 @@
+---
+name: cfp
+list: events
+---
+<section>
+
 ## Call For Proposals
 
 Call For Proposals settings enable event organizers to easily manage their call for proposals and talk submissions.
@@ -83,3 +89,4 @@ You can find submitted proposals in Presentations part.
 If you prefer to use your own external CFP, you can add a link to it.
 
 ![CFP Photo](/images/cfp4.svg)
+</section>

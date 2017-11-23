@@ -1,3 +1,9 @@
+---
+name: create
+list: events
+---
+<section>
+
 ## How to create an event
 
 To get started, sign up or log in to your Eventil account. Choose CREATE EVENT and you will be brought to the right section. Creating events is based on three main parts: basic event information, type of conference and detailed information.
@@ -117,3 +123,4 @@ Add a photo or picture for your event. A lot of people pay more attention to eve
 Let the attendees know about your primary languages for the event. It helps people to find the event and specify if it is what they are looking for.
 
 ![Topic Photo](/images/topic.svg)
+</section>

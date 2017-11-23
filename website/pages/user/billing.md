@@ -1,3 +1,9 @@
+---
+name: bill
+list: user
+---
+<section>
+
 ## Billing
 
 Here you can see Billing Overview and Payment History.
@@ -21,3 +27,4 @@ To find out more about speaker plans check <a href="#"><a href="https://eventil.
 ### Payment History
 
 In this part you can see your payments for tickets bought on Eventil.
+</section>

@@ -1,3 +1,9 @@
+---
+name: email
+list: user
+---
+<section>
+
 ## Email settings
 
 Here you can select types of information you want to receive on your e-mail.
@@ -21,3 +27,4 @@ The list of types:
     Checkboxes are all selected from the very beginning. If you don't want to receive some types of information, you have to deselect it here.
   </div>
 </article>
+</section>

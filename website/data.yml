@@ -8,17 +8,16 @@ events:
       cooperations:
         title: Cooperations
 meta:
-  description: Dummy meta description
-  facebook:
-    site_name: Made by Kulfon
+  description: Discover the latest tech conferences, meetups, talks/presentations and speakers from around the world.
+    site_name: Eventil
     image:
-      url: https://raw.githubusercontent.com/zaiste/kulfon/master/kulfon-static-site-logo.jpg
+      url: https://eventil.com/images/eventil_cover.jpg
       width: 512
       height: 512
-      type: img/jpg
+    url: https://eventil.com/
   twitter:
-    site: Made by Kulfon
-    creator: Kulfon
+    site: @eventilhq
+    title: Eventil
+    description: Discover the latest tech conferences, meetups, talks/presentations and speakers from around the world.
     image:
-      url: https://raw.githubusercontent.com/zaiste/kulfon/master/kulfon-static-site-logo.jpg
-    domain: kulfon.net
+      url: https://eventil.com/images/eventil_cover.jpg

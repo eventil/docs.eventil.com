@@ -1,3 +1,9 @@
+---
+name: speakers
+list: events
+---
+<section>
+
 ## Speakers
 
 Here you can find speakers who submitted a talk or a workshop proposal to your event.
@@ -11,3 +17,4 @@ You can also browse speakers in specific groups (accepted, pending, rejected and
 Using an option "Download xls", you can download a file with speakers information in a xls format.
 
 ![XLS Photo](/images/xls.svg)
+</section>
