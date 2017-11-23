@@ -1,3 +1,9 @@
+---
+name: memberships
+list: user
+---
+<section>
+
 ## Group Memberships
 
 Here you can see all groups you joined.
@@ -22,3 +28,4 @@ Here you can see all groups you joined.
     Reviewers membership is good when you want people to help you choose the best presentations for your event. You don't have to decide on your own.
   </div>
 </article>
+</section>

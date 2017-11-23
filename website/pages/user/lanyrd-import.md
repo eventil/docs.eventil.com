@@ -1,3 +1,9 @@
+---
+name: lanyrd
+list: user
+---
+<section>
+
 ## Import presentations from Lanyrd
 
 You can synchronize your Eventil profile with Lanyrd.
@@ -20,3 +26,4 @@ In “Settings” go to “Import presentations from Lanyrd” section.
 ![Lanyrd Photo](/images/lanyrd-new.svg)
 
 Enter your Lanyrd handle and click “Import Presentations”. And that’s all from your side. We take care of the rest. We will inform you via email once your import is ready.
+</section>

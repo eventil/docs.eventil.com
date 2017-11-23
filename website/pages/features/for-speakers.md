@@ -1,4 +1,12 @@
+---
+name: for
+list: features
+---
+<section>
+
 ## For Speakers
+
+---
 
 ### Submit proposals to events
 
@@ -41,3 +49,4 @@ We promote your speaker profile through our marketing channels (social media, ne
 #### CONCIERGE
 
 We manage the history of your speaking engagements for you so it's always up-to-date with each talk information completed with abstracts, slides or links to videos, available from a single location
+</section>

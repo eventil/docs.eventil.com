@@ -1,3 +1,9 @@
+---
+name: pres
+list: user
+---
+<section>
+
 ## Presentations
 
 Here is a list of all your presentations submitted to various conferences along with their statuses.
@@ -52,3 +58,4 @@ Click “Create” and it’s ready.
     After adding a presentation it will be visible on your profile only for you. Next to it you will see what its status is - pending, rejected or accepted, and if it's already published or not. Only after accepting and publishing your presentation by an event organiser or Eventil staff it will be visible to the public.
   </div>
 </article>
+</section>

@@ -1,3 +1,9 @@
+---
+name: account
+list: user
+---
+<section>
+
 ## Account
 
 Here you can change your password.
@@ -7,3 +13,4 @@ Here you can change your password.
 You have to type in a new password, confirm it and enter the current one.
 
 If you forgot your current password, click "I forgot my password" and you will get an email with instructions what to do next.
+</section>

@@ -1,3 +1,9 @@
+---
+name: tickets
+list: events
+---
+<section>
+
 ## Tickets
 
 You can create and sell tickets for your event using Eventil.
@@ -36,3 +42,4 @@ You can add several types of tickets.
     Event with paid tickets is required to have an organization with a payment gateway connected. Check "Billing" for more details.
   </div>
 </article>
+</section>

@@ -1,3 +1,9 @@
+---
+name: mailings
+list: events
+---
+<section>
+
 ## Mailings
 
 Do you plan to change an event location? Or you have a very important information to communicate? Mailing is an easy and quick way to keep in touch with your event audience.
@@ -37,3 +43,4 @@ Next steps:
 * send - the mailing will be sent to the chosen group
 * edit - if you see the mistake or you want to change something, you can always edit your mailing
 * destroy - you can delete the created mailing, take into account that you can’t destroy the mailing that has already been sent
+</section>

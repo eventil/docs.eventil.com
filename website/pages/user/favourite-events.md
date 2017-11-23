@@ -1,3 +1,9 @@
+---
+name: favourite
+list: user
+---
+<section>
+
 ## Favourite Events
 
 Here you can see all your favourite events.
@@ -13,3 +19,4 @@ Here you can see all your favourite events.
     Favourite events are those marked by you with a heart sign.
   </div>
 </article>
+</section>

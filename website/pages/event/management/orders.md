@@ -1,3 +1,9 @@
+---
+name: orders
+list: events
+---
+<section>
+
 ## Orders
 
 In this section you can see orders of your tickets.
@@ -11,3 +17,4 @@ Orders are grouped into three groups:
 ![Orders Photo](/images/orders-new.svg)
 
 You can then see all invoices, download xls file with orders' information and also print them.
+</section>
