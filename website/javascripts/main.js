@@ -1,6 +1,4 @@
 
-console.log("Hello, I'm Kulfon");
-
 (function () {
 
   'use strict';
@@ -13,9 +11,11 @@ console.log("Hello, I'm Kulfon");
 
     function expand() {
       if (currentTarget) {
-        currentTarget.classList.remove('d-none');
+        currentTarget.classList.remove('d-block');
+        currentTarget.classList.add('d-none');
       }
       currentTarget = this.nextElementSibling;
+      currentTarget.classList.remove('d-none');
       currentTarget.classList.add('d-block');
     }
 
