@@ -9,14 +9,16 @@ events:
         title: Cooperations
 meta:
   description: Discover the latest tech conferences, meetups, talks/presentations and speakers from around the world.
+  facebook:
     site_name: Eventil
     image:
       url: https://eventil.com/images/eventil_cover.jpg
+      type: jpg
       width: 512
       height: 512
     url: https://eventil.com/
   twitter:
-    site: @eventilhq
+    site: '@eventilhq'
     title: Eventil
     description: Discover the latest tech conferences, meetups, talks/presentations and speakers from around the world.
     image:
