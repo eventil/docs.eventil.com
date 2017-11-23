@@ -34,6 +34,7 @@ html, body {
 
       .sidebar-inner {
         padding: 20px;
+        margin-top: 30px;
         width: 280px;
 
         .menu-list li ul {
@@ -90,8 +91,8 @@ html, body {
             > a {
               padding-left: 0;
               margin-bottom: 12px;
-              font-size: 15px;
-              font-weight: 700;
+              font-size: 14px;
+              font-weight: 600;
               color: rgba(23,42,58,.5);
               text-transform: uppercase;
 
@@ -101,7 +102,7 @@ html, body {
               }
 
               img {
-                margin-right: 15px;
+                margin-right: 20px;
                 vertical-align: bottom;
               }
 
@@ -200,33 +201,26 @@ html, body {
               padding: 1rem 1.5rem;
               border: 1px solid #e0e0e0;
               border-radius: 3px;
+              height: 100%;
 
-              &.part-events {
+              .header {
+                display: flex;
 
-                .part-icon {
+                img {
+                  margin-right: 0.75rem;
+                }
 
-                  img {
-                    fill: #3498db;
-                  }
+                .title {
+                  margin-top: 0.5rem;
+                  margin-bottom: 0.5rem;
+                  display: flex;
+                  font-weight: 600;
+                  font-size: 1.5rem;
                 }
               }
 
-              .part-icon {
-                margin-bottom: 1rem;
-                width: 72px;
-                height: 72px;
-                display: flex;
-                border: 1px solid #e0e0e0;
-                border-radius: 50%;
-                justify-content: center;
-                align-items: center;
-              }
-
-              .title {
-                margin-bottom: 0.5rem;
-              }
-
               p {
+                margin-top: 0.5rem;
                 margin-bottom: 0;
                 color: #373e42;
               }
