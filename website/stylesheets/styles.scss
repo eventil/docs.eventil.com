@@ -204,18 +204,21 @@ html, body {
               height: 100%;
 
               .header {
-                display: flex;
+                position: relative;
+                margin-top: 0.5rem;
 
                 img {
+                  display: inline-block;
                   margin-right: 0.75rem;
                 }
 
                 .title {
-                  margin-top: 0.5rem;
+                  margin-top: 0.1rem;
                   margin-bottom: 0.5rem;
-                  display: flex;
+                  display: inline-block;
                   font-weight: 600;
                   font-size: 1.5rem;
+                  vertical-align: top;
                 }
               }
 
