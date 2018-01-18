@@ -12,15 +12,15 @@ list: events
 
   In Event Management go to "Agenda" section.
 
-  ![Agenda Photo](/images/ag1.svg)
+  ![Agenda Photo](/images/agenda1.svg)
 
   Here you have an option to "Add new session". Just click it and you can start entering details.
 
-  ![Agenda Photo](/images/ag2.svg)
+  ![Agenda Photo](/images/agenda2.svg)
 
   Here you can choose the day when a session takes place, enter start and end time and choose what kind of session it is.
 
-  ![Agenda Photo](/images/kind.svg)
+  ![Agenda Photo](/images/kindnew.svg)
 
   <article class="message is-primary">
     <div class="message-header">
@@ -42,7 +42,7 @@ list: events
 
   If the event happens in more than one room, it is good to fill in the "Track" field to let people know where they can find sessions they are interested in.
 
-  ![Agenda Photo](/images/track.svg)
+  ![Agenda Photo](/images/tracknew.svg)
 
   You can choose sessions from the existing list of presentations on your event in "Participation" field or name them on your own in "Name" field.
 

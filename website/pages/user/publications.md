@@ -8,7 +8,7 @@ list: user
 
 Here is a list of all your added publications.
 
-![Publications Photo](/images/pub1-new.svg)
+![Publications Photo](/images/publist.svg)
 
 ---
 
@@ -16,7 +16,7 @@ Here is a list of all your added publications.
 
 Click “Add Publication” and start entering necessary information.
 
-![Publications Photo](/images/pub2-new.svg)
+![Publications Photo](/images/addnewpub.svg)
 
 #### **Step 1: Title of publication**
 

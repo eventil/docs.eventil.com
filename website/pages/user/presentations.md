@@ -8,7 +8,7 @@ list: user
 
 Here is a list of all your presentations submitted to various conferences along with their statuses.
 
-![Presentations Photo](/images/pres1-new.svg)
+![Presentations Photo](/images/preslist.svg)
 
 ---
 
@@ -22,13 +22,9 @@ Here is a list of all your presentations submitted to various conferences along 
 
 ### How to add a new presentation?
 
-Click “Add Presentation”.
+Click “Add Presentation”. Start entering necessary information.
 
-![Add Presentation Photo](/images/addpresentation.svg)
-
-Start entering necessary information.
-
-![Presentations Photo](/images/pres2-new.svg)
+![Presentations Photo](/images/addnewpres.svg)
 
 #### **Step 1: Event Name**
 
