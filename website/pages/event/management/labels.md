@@ -14,11 +14,9 @@ Here you can create labels which you can later use to mark presentations.
 
 Go to "Labels" section.
 
-![Labels Photo](/images/labels-new.svg)
+![Labels Photo](/images/createlabel.svg)
 
-Click "New label", enter its name and click "Create label".
-
-![Labels Photo](/images/label2.svg)
+If you want to add a new label, enter its name and click "Create label".
 
 After creating all necessary labels you can use them with presentations in "Presentations" section.
 </section>

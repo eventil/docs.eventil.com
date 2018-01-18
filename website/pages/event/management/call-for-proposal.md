@@ -16,7 +16,7 @@ You don't have to rely on tools such as Google Forms, WuFoo Forms and other!
 
 Go to "Call for Proposals" section.
 
-![CFP Photo](/images/cfp-settings.svg)
+![CFP Photo](/images/callfp.svg)
 
 Write a description. It will be visible to your potential speakers. Set the start and end date and it’s done.
 
@@ -25,11 +25,11 @@ Write a description. It will be visible to your potential speakers. Set the star
 ### Custom fields
 If you want to get some extra information from potential speakers, use "Custom fields" for CFP.
 
-![CFP Photo](/images/cpf2.svg)
+![CFP Photo](/images/customfields.svg)
 
 Click "Add custom field", choose the type of the field (checkboxes, questions etc.) and enter the necessary information.
 
-![CFP Photo](/images/cfp3.svg)
+![CFP Photo](/images/fieldtype.svg)
 
 ---
 
@@ -49,19 +49,11 @@ If checked, logged in users can submit their ideas for presentations. You will f
 
 Ideas can be submitted at https://eventil.com/events/EVENT_SLUG/ideas
 
-![Ideas Photo](/images/ideas1.svg)
+![Ideas Photo](/images/ideas.svg)
 
-Here, by clicking "New Idea", users can add their ideas.
+Here, by clicking "Submit Idea", users can add their ideas.
 
-![Ideas Photo](/images/ideas2.svg)
-
-When someone adds a new idea, the section "Presentation Ideas" will appear in your event management.
-
-![Ideas Photo](/images/ideas3.svg)
-
-In this section you can see what the ideas are and how many people voted for a specific idea.
-
-![Ideas Photo](/images/pres-ideas.svg)
+![Ideas Photo](/images/submitidea.svg)
 
 ---
 
@@ -88,5 +80,5 @@ You can find submitted proposals in Presentations part.
 
 If you prefer to use your own external CFP, you can add a link to it.
 
-![CFP Photo](/images/cfp4.svg)
+![CFP Photo](/images/yourowncfp.svg)
 </section>

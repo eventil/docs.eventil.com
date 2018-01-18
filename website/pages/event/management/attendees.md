@@ -8,11 +8,11 @@ list: events
 
 In "Attendees" section you can see people who are attending your event.
 
-![Attendees Photo](/images/attendees-new.svg)
+![Attendees Photo](/images/attendeeslist.svg)
 
 ---
 
-![Presence Photo](/images/presence.svg)
+![Presence Photo](/images/markaspresent.svg)
 
 You can use it to mark people's presence.
 

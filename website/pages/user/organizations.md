@@ -8,15 +8,15 @@ list: user
 
 On this page we display organizations you use for event organization and event sponsorship. If you haven't created any organization yet, you can do it here.
 
-![Your Organizations Photo](/images/your-org1-new.svg)
+![Your Organizations Photo](/images/yorg.svg)
 
 ---
 
 ### How to create an organization?
 
-Click "Create New Organization" and enter the necessary information.
+Click "New Organization" and enter the necessary information.
 
-![Create Organization Photo](/images/your-org2-new.svg)
+![Create Organization Photo](/images/bill2.svg)
 
 Enter the name and VAT ID of your organization. These two points are required. Without that you won't be able to create and sell paid tickets. The rest of information is not required but is welcome.
 

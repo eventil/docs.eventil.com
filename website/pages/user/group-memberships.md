@@ -8,7 +8,7 @@ list: user
 
 Here you can see all groups you joined.
 
-![Group Memeberships Photo](/images/group-memberships-new.svg)
+![Group Memeberships Photo](/images/gm.svg)
 
 ---
 

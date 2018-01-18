@@ -114,7 +114,7 @@ Write more about your event: what it is about, how long it will last, why you or
 
 Add a photo or picture for your event. A lot of people pay more attention to events with visual elements.
 
-![Poster Photo](/images/poster.svg)
+![Poster Photo](/images/addposter.svg)
 
 ---
 

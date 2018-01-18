@@ -8,7 +8,7 @@ list: user
 
 Here you can enter and change your personal information.
 
-![Profile Photo](/images/profile-new.svg)
+![Profile Photo](/images/yourprofile.svg)
 
 <article class="message is-warning">
   <div class="message-header">
