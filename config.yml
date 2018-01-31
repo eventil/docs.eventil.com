@@ -1,6 +1,6 @@
 includePaths: []
 stylesheets:
-  - https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.min.css
+  - https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.min.css
 javascripts: []
 deploy:
   server: nu02

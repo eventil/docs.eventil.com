@@ -6,7 +6,7 @@
   <title>{% block title %}{{ data.title }}{% endblock %}</title>
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   {% for stylesheet in stylesheets %}
-  <link rel="stylesheet" href="{{stylesheet}}"/>
+  <link rel="stylesheet" href="{{ stylesheet }}"/>
   {% endfor %}
   <link href="/styles.css" rel="stylesheet">
   {% block head %}{% endblock %}
@@ -22,6 +22,7 @@
             <li>
               <a href="https://github.com/eventil/eventil.com/issues">Support</a>
             </li>
+          </ul>
         </nav>
       </header>
       <article>
