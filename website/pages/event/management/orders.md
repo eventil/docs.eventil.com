@@ -14,7 +14,7 @@ Orders are grouped into three groups:
 * Unsuccessful orders
 * Correcting orders
 
-![Orders Photo](/images/orderslist.svg)
+![Orders Photo](/images/orderslist.png)
 
 You can then see all invoices, download xls file with orders' information and also print them.
 </section>

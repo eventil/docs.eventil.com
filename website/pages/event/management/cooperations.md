@@ -23,13 +23,13 @@ You can choose with which groups you want to cooperate on your event. You don't 
 
 Go to "Cooperation" section.
 
-![Cooperation Photo](/images/coo1.svg)
+![Cooperation Photo](/images/coo1.png)
 
 Enter the group name (it has to already exist in Eventil) and click "Request".
 
 Groups can be browsed on [https://eventil.com/groups](https://eventil.com/groups).
 
-![Cooperation Photo](/images/coo2.svg)
+![Cooperation Photo](/images/coo2.png)
 
 Mail with request for cooperation has been sent to the group's admins.
 
@@ -39,15 +39,15 @@ Mail with request for cooperation has been sent to the group's admins.
 
 Go to your profile's settings.
 
-![Cooperation Photo](/images/coo3.svg)
+![Cooperation Photo](/images/coo3.png)
 
 Go to "Your Groups" and choose the group.
 
-![Cooperation Photo](/images/coo4.svg)
+![Cooperation Photo](/images/coo4.png)
 
 Click "Manage" and go to "Cooperations" section.
 
-![Cooperation Photo](/images/coo5.svg)
+![Cooperation Photo](/images/coo5.png)
 
 Here you see all sent requests for cooperations. Click "Accept" and the cooperation will be added. The event will be added to the group’s events.
 

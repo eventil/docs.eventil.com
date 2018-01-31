@@ -19,13 +19,13 @@ Eventil provides the invoicing to sell tickets and for that purpose organization
 
 Go to "Billing" section in event management.
 
-![Billing Photo](/images/bill1.svg)
+![Billing Photo](/images/bill1.png)
 
 Choose your organization from a list and connect it via "Connect Organization" button or create a new one by clicking "Create New Organization and Connect".
 
 If you choose to create a new organization, you will be brought here:
 
-![Billing Photo](/images/bill2.svg)
+![Billing Photo](/images/bill2.png)
 
 The most import details are "Name" and "VATID".
 

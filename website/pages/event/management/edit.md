@@ -27,7 +27,7 @@ Updating your event details is simpler than ever. The fields are the same as in 
 
 Enter the name of your event. Give your potential attendees quick information on what the event is about. Make it catchy to draw huge audience. For example: PolyConf 17.
 
-![Event Name Photo](/images/name.svg)
+![Event Name Photo](/images/name.png)
 
 <article class="message is-warning">
   <div class="message-header">
@@ -44,7 +44,7 @@ Enter the name of your event. Give your potential attendees quick information on
 
 Enter any extra web address for your event, webpage or group. Give your potential attendees the possibility to know your event better.
 
-![External Sources Photo](/images/url.svg)
+![External Sources Photo](/images/url.png)
 
 <article class="message is-warning">
   <div class="message-header">
@@ -61,7 +61,7 @@ Enter any extra web address for your event, webpage or group. Give your potentia
 
 Get the web address for your event. It will be generated automatically based on your event name but you can also change it by entering your own slug. For example: polyconf-17.
 
-![Slug Photo](/images/slug.svg)
+![Slug Photo](/images/slug.png)
 
 ---
 
@@ -69,7 +69,7 @@ Get the web address for your event. It will be generated automatically based on 
 
 Enter start and ending dates so the attendees know when your event takes place.
 
-![Timing Photo](/images/timing.svg)
+![Timing Photo](/images/timing.png)
 
 ---
 
@@ -80,7 +80,7 @@ Enter start and ending dates so the attendees know when your event takes place.
 #### **1. Location Type**
 First, choose the type of location. If you choose "Onsite", you will be asked to fill in address details so the attendees know where it takes place. If you choose "Online", address details won't be required.
 
-![Location Photo](/images/location.svg)
+![Location Photo](/images/location.png)
 
 ---
 
@@ -94,7 +94,7 @@ First, choose the type of location. If you choose "Onsite", you will be asked to
 
 Enter the city or more exact address for your event. Location is important for people so precise it. Enter the name of a lecture room, cafe etc. where you are going to make the event so your attendees know what to expect and what thay should bring with them.
 
-![Address Photo](/images/address.svg)
+![Address Photo](/images/address.png)
 
 <article class="message is-warning">
   <div class="message-header">
@@ -111,7 +111,7 @@ Enter the city or more exact address for your event. Location is important for p
 
 Write more about your event: what it is about, how long it will last, why you organize it, who will give talks, what the purpose of your action is etc. The more you write, the more people will know about it. They will feel welcome to come.
 
-![Description Photo](/images/description.svg)
+![Description Photo](/images/description.png)
 
 ---
 
@@ -123,7 +123,7 @@ Write more about your event: what it is about, how long it will last, why you or
 
 Add a photo or picture for your event. A lot of people pay more attention to events with visual elements.
 
-![Poster Photo](/images/addposter.svg)
+![Poster Photo](/images/addposter.png)
 
 ---
 
@@ -131,5 +131,5 @@ Add a photo or picture for your event. A lot of people pay more attention to eve
 
 Let the attendees know about your primary languages for the event. It helps people to find the event and specify if it is what they are looking for.
 
-![Topic Photo](/images/topic.svg)
+![Topic Photo](/images/topic.png)
 </section>

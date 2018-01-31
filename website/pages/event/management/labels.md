@@ -14,7 +14,7 @@ Here you can create labels which you can later use to mark presentations.
 
 Go to "Labels" section.
 
-![Labels Photo](/images/createlabel.svg)
+![Labels Photo](/images/createlabel.png)
 
 If you want to add a new label, enter its name and click "Create label".
 

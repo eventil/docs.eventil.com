@@ -7,7 +7,7 @@ list: user
 ## Your Groups
 Here you can find a list of all groups you manage and create a new one.
 
-![Your Groups Photo](/images/ygroups.svg)
+![Your Groups Photo](/images/ygroups.png)
 
 ---
 
@@ -15,7 +15,7 @@ Here you can find a list of all groups you manage and create a new one.
 
 Click "Add Group" and enter the necessary information.
 
-![Create Group Photo](/images/createagroup.svg)
+![Create Group Photo](/images/createagroup.png)
 
 #### **Step 1: Group name**
 

@@ -8,11 +8,11 @@ list: events
 
 Here's a list of presentations submitted to your event in response to Call for Proposals.
 
-![Presentations Photo](/images/presentats.svg)
+![Presentations Photo](/images/presentats.png)
 
 At the beginning presentations are marked as "pending" and they wait for your action. You can then mark them as accepted, rejected or votable. You can also publish them (only after publishing they will be visible on your event page). Once marked, you can browse them in specific groups.
 
-![Presentations Photo](/images/allstatuses.svg)
+![Presentations Photo](/images/allstatuses.png)
 
 ---
 
@@ -22,7 +22,7 @@ Presentations can be marked with grades by organizers and reviewers (checkout ou
 
 You can also add comments to presentations and mark them with labels. Click the presentation's name and you will get there.
 
-![Presentations Photo](/images/proposal.svg)
+![Presentations Photo](/images/proposal.png)
 
 <article class="message is-warning">
   <div class="message-header">
@@ -56,5 +56,5 @@ You can add slides and videos to the presentations. Choose "Upload slides" and y
   </div>
 </article>
 
-![Presentations Photo](/images/uploadslides.svg)
+![Presentations Photo](/images/uploadslides.png)
 </section>

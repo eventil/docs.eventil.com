@@ -14,11 +14,11 @@ Do you plan to change an event location? Or you have a very important informatio
 
 Go to "Mailings" section.
 
-![Mailing Photo](/images/mailings3.svg)
+![Mailing Photo](/images/mailings3.png)
 
 Click “Add Mailing”.
 
-![Mailing Photo](/images/mailings2.svg)
+![Mailing Photo](/images/mailings2.png)
 
 The name of your event will automatically appear in the “Name” field (we advise you to leave it that way - the recipients will know which event this mailing concerns).
 
@@ -26,13 +26,13 @@ Choose the reply-to email (your current account email will appear in the field a
 
 In “To” field you can choose to which group of people your mailing will be sent.
 
-![Mailing Photo](/images/mailing3.svg)
+![Mailing Photo](/images/mailing3.png)
 
 Write your message, enter the subject and click “Create”.
 
 In “Mailings” section you can see the created mailing.
 
-![Mailing Photo](/images/mailings1.svg)
+![Mailing Photo](/images/mailings1.png)
 
 ---
 

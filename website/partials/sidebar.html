@@ -2,12 +2,12 @@
   <div class="d-flex justify-content-end">
     <div class="sidebar-inner pt-3">
       <a href="/">
-        <img src="/images/logo.svg" alt="" class="img-fluid">
+        <img src="/images/logo.png" alt="" class="img-fluid">
       </a>
       <ul class="menu-list list-unstyled">
         <li class="toggle accordion-toggle">
           <a class="toggle accordion-toggle {% if data.page.list === 'events' %} is-active {% else %} d-none {% endif %}" href="#">
-            <img src="/images/icon-calendar.svg" alt="">Events</a>
+            <img src="/images/icon-calendar.png" alt="">Events</a>
         </li>
         <ul class="menu-submenu accordion-content {% if data.page.list === 'events' %} d-block {% else %} d-none {% endif %}">
           <li><a class="head {% if data.page.name === 'create' %} is-active {% endif %}" href="/event/create-event/">Create Event</a></li>
@@ -27,7 +27,7 @@
         </ul>
         <li class="toggle accordion-toggle">
             <a class="toggle accordion-toggle {% if data.page.list === 'user' %} is-active {% else %} d-none {% endif %}" href="#">
-            <img src="/images/icon-user.svg" alt="">User</a>
+            <img src="/images/icon-user.png" alt="">User</a>
         </li>
         <ul class="menu-submenu accordion-content {% if data.page.list === 'user' %} d-block {% else %} d-none {% endif %}">
           <li><a class="head {% if data.page.name === 'profile' %} is-active {% endif %}" href="/user/profile/">Profile</a></li>
@@ -47,7 +47,7 @@
         </ul>
         <li class="toggle accordion-toggle">
           <a class="toggle accordion-toggle {% if data.page.list === 'features' %} is-active {% else %} d-none {% endif %}" href="#">
-          <img src="/images/icon-box.svg" alt="">Features</a>
+          <img src="/images/icon-box.png" alt="">Features</a>
         </li>
         <ul class="menu-submenu accordion-content {% if data.page.list === 'features' %} d-block {% else %} d-none {% endif %}">
           <li><a class="head {% if data.page.name === 'badges' %} is-active {% endif %}" href="/features/badges-lanyards/">Badges & Lanyards</a></li>

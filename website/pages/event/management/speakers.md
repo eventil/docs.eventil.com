@@ -8,9 +8,9 @@ list: events
 
 Here you can find speakers who submitted a talk or a workshop proposal to your event.
 
-![Speakers Photo](/images/allspeakers.svg)
+![Speakers Photo](/images/allspeakers.png)
 
 Using an option "Download as CSV", you can download a file with speakers information in a csv format.
 
-![XLS Photo](/images/downascsv.svg)
+![XLS Photo](/images/downascsv.png)
 </section>

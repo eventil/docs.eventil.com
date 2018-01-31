@@ -8,7 +8,7 @@ list: user
 
 Here you can select types of information you want to receive on your e-mail.
 
-![Email Settings Photo](/images/emailsettings.svg)
+![Email Settings Photo](/images/emailsettings.png)
 
 The list of types:
 * Mailing - You will receive information from events admins. If you take part in an event and something is changed i.e. event place, hours etc., admins can inform the attendees via e-mails.
