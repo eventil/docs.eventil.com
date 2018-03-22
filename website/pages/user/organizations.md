@@ -20,5 +20,5 @@ Click "New Organization" and enter the necessary information.
 
 Enter the name and VAT ID of your organization. These two points are required. Without that you won't be able to create and sell paid tickets. The rest of information is not required but is welcome.
 
-You can simply create your organization or connect it to Stripe straight away to have the possibility to sell tickets.
+You can simply create your organization or connect it to Stripe or PayU straight away to have the possibility to sell tickets.
 </section>

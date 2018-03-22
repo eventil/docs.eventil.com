@@ -16,10 +16,13 @@ You don't have to rely on tools such as Google Forms, WuFoo Forms and other!
 
 Go to "Call for Proposals" section.
 
-![CFP Photo](/images/callfp.png)
+![CFP Photo](/images/cfpsection.png)
 
-Write a description. It will be visible to your potential speakers. Set the start and end date and it’s done.
+Fill in the fields. They will be visible to your potential speakers. Set the start and end date and it’s done.
 
+For code of conduct you can use a template which can be adjusted to your needs.
+
+![CFP Photo](/images/coctemplate.png)
 ---
 
 ### Custom fields
@@ -33,27 +36,11 @@ Click "Add custom field", choose the type of the field (checkboxes, questions et
 
 ---
 
-### Checkboxes
-
-**1. CFP Always Open**
+### Checkboxes CFP Always Open
 
 If checked, Call For Proposal url and submission will always be available. This setting doesn't affect CFP info box on the event page. Info box display is based on START/END dates.
 
-**2. Code of Conduct**
-
-If checked, the Code of Conduct will show on CFP page for speaker's submission.
-
-**3. Ideas Enabled**
-
-If checked, logged in users can submit their ideas for presentations. You will find out what people are interested in and what they expect from your event's talks or workshops. Ideas are votable.
-
-Ideas can be submitted at https://eventil.com/events/EVENT_SLUG/ideas
-
-![Ideas Photo](/images/ideas.png)
-
-Here, by clicking "Submit Idea", users can add their ideas.
-
-![Ideas Photo](/images/submitidea.png)
+![CFP Photo](/images/box.png)
 
 ---
 
@@ -80,5 +67,5 @@ You can find submitted proposals in Presentations part.
 
 If you prefer to use your own external CFP, you can add a link to it.
 
-![CFP Photo](/images/yourowncfp.png)
+![CFP Photo](/images/box.png)
 </section>

@@ -14,11 +14,15 @@ Activate Sponsors to display sponsors on the page of your Event.
 
 Go to "Sponsors" section.
 
-![Sponsors Photo](/images/spo1.png)
+![Sponsors Photo](/images/spo.png)
 
-Click "Add sponsor".
+Choose a sponsor's company from the list.
 
-![Sponsors Photo](/images/spo2.png)
+![Sponsors Photo](/images/company.png)
 
-You can choose your sponsor from a list of organizations or create a new one if it is missing on the list. Just prepare company name, logo and website and send it to Eventil team at <mailto:hello@eventil.com><hello@eventil.com>.
+Add a level of sponsorship and click "Create sponsor".
+
+![Sponsors Photo](/images/levels.png)
+
+If your sponsor's company is missing on the list, just prepare its name, logo and website and send it to Eventil team at <mailto:hello@eventil.com><hello@eventil.com>.
 </section>
