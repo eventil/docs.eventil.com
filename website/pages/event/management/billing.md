@@ -11,7 +11,7 @@ Billing lets you define the organization data for selling paid tickets.
 ---
 
 
-Eventil provides the invoicing to sell tickets and for that purpose organization with a payment gateway connected to your event is required. Payment gateway allows you to collect money. Currently you can connect Stripe as a payment gateway.
+Eventil provides the invoicing to sell tickets and for that purpose organization with a payment gateway connected to your event is required. Payment gateway allows you to collect money. Currently you can connect Stripe or PayU as a payment gateway.
 
 ---
 

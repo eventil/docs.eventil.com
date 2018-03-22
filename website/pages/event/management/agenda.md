@@ -4,23 +4,23 @@ list: events
 ---
 <section>
 
-  ## Agenda
+  ## Schedule
 
-  You can create an agenda for your event. Show the attendees what is the schedule. During creation you can choose kinds of sessions, their start and end time.
+  You can create a schedule for your event. Show the attendees what is the agenda. During creation you can choose kinds of sessions, their start and end time.
 
-  ### How to create an agenda?
+  ### How to create a schedule
 
-  In Event Management go to "Agenda" section.
+  In Event Management go to "Schedule" section.
 
-  ![Agenda Photo](/images/agenda1.png)
+  ![Schedule Photo](/images/ag1.png)
 
   Here you have an option to "Add new session". Just click it and you can start entering details.
 
-  ![Agenda Photo](/images/agenda2.png)
+  ![Schedule Photo](/images/ag2.png)
 
   Here you can choose the day when a session takes place, enter start and end time and choose what kind of session it is.
 
-  ![Agenda Photo](/images/kindnew.png)
+  ![Schedule Photo](/images/kindnew.png)
 
   <article class="message is-primary">
     <div class="message-header">
@@ -36,13 +36,13 @@ list: events
       Tip
     </div>
     <div class="message-body">
-      Sessions can be filtered by kinds in a created agenda.
+      Sessions can be filtered by kinds in a created schedule.
     </div>
   </article>
 
   If the event happens in more than one room, it is good to fill in the "Track" field to let people know where they can find sessions they are interested in.
 
-  ![Agenda Photo](/images/tracknew.png)
+  ![Schedule Photo](/images/tracknew.png)
 
   You can choose sessions from the existing list of presentations on your event in "Participation" field or name them on your own in "Name" field.
 
