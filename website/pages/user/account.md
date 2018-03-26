@@ -8,7 +8,7 @@ list: user
 
 Here you can change your password.
 
-![Account Photo](/images/accountnew.png)
+![Account Photo](/images/yaccount.png)
 
 You have to type in a new password, confirm it and enter the current one.
 
