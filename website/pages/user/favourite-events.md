@@ -8,7 +8,7 @@ list: user
 
 Here you can see all your favourite events.
 
-![Favourite Events Photo](/images/favevents.png)
+![Favourite Events Photo](/images/fe.png)
 
 
 <article class="message is-warning">

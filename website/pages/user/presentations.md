@@ -8,7 +8,7 @@ list: user
 
 Here is a list of all your presentations submitted to various conferences along with their statuses.
 
-![Presentations Photo](/images/preslist.png)
+![Presentations Photo](/images/ypres1.png)
 
 ---
 
@@ -24,7 +24,7 @@ Here is a list of all your presentations submitted to various conferences along 
 
 Click “Add Presentation”. Start entering necessary information.
 
-![Presentations Photo](/images/addnewpres.png)
+![Presentations Photo](/images/ypres2.png)
 
 #### **Step 1: Event Name**
 

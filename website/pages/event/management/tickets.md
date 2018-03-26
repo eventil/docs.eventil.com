@@ -33,7 +33,7 @@ Click “Create” and your tickets are ready.
 
 You can add several types of tickets.
 
-![Tickets Photo](/images/ticketslist.png)
+![Tickets Photo](/images/tickettypes.png)
 
 <article class="message is-warning">
   <div class="message-header">
